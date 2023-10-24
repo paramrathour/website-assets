@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://raw.githubusercontent.com/paramrathour/website-assets/main/favicons/mstile-150x150.png"/>
+            <square150x150logo src="https://paramrathour.github.io/website-assets/favicons/mstile-150x150.png"/>
             <TileColor>#2b5797</TileColor>
         </tile>
     </msapplication>
