@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="253.466pt" height="166.172pt" viewBox="0 0 253.466 166.172">
+<style>
+path {
+  fill: #34343c;
+  }
+</style>
 <defs>
 <clipPath id="clip_0">
 <path transform="matrix(1,0,0,-1,-58.897,787.2)" d="M0 0H595.276V841.89H0Z"/>
@@ -65,7 +70,7 @@
 <path id="font_4_1" d="M.6589966 .23046875C.6759949 .23046875 .69400027 .23046875 .69400027 .25045777 .69400027 .27046205 .6759949 .27046205 .6589966 .27046205H.117996219C.100997928 .27046205 .08299255 .27046205 .08299255 .25045777 .08299255 .23046875 .100997928 .23046875 .117996219 .23046875H.6589966Z"/>
 </defs>
 <g clip-path="url(#clip_0)">
-<path transform="matrix(1,0,0,-1,.6310005,1.835022)" stroke-width=".797" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H476.221"/>
+<path transform="matrix(1,0,0,-1,.6310005,1.835022)" stroke-width=".797" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#34343c" d="M0 0H476.221"/>
 <use data-text="A" xlink:href="#font_1_3" transform="matrix(10.9091,0,0,-10.9091,.15399933,12.406982)"/>
 <use data-text="l" xlink:href="#font_1_11" transform="matrix(10.9091,0,0,-10.9091,9.6340069,12.406982)"/>
 <use data-text="g" xlink:href="#font_1_8" transform="matrix(10.9091,0,0,-10.9091,13.11401,12.406982)"/>
@@ -110,7 +115,7 @@
 <use data-text="l" xlink:href="#font_2_21" transform="matrix(10.9091,0,0,-10.9091,238.97547,12.406982)"/>
 <use data-text="e" xlink:href="#font_2_17" transform="matrix(10.9091,0,0,-10.9091,241.99729,12.406982)"/>
 <use data-text=")" xlink:href="#font_2_2" transform="matrix(10.9091,0,0,-10.9091,246.8518,12.406982)"/>
-<path transform="matrix(1,0,0,-1,.6310005,17.327027)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H476.221"/>
+<path transform="matrix(1,0,0,-1,.6310005,17.327027)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#34343c" d="M0 0H476.221"/>
 <use data-text="I" xlink:href="#font_1_4" transform="matrix(10.9091,0,0,-10.9091,.6310005,27.700013)"/>
 <use data-text="n" xlink:href="#font_1_13" transform="matrix(10.9091,0,0,-10.9091,5.387371,27.700013)"/>
 <use data-text="p" xlink:href="#font_1_15" transform="matrix(10.9091,0,0,-10.9091,12.358288,27.700013)"/>
@@ -190,7 +195,7 @@
 <use data-text="(" xlink:href="#font_2_1" transform="matrix(10.9091,0,0,-10.9091,83.89908,93.802)"/>
 <use data-text="r" xlink:href="#font_3_5" transform="matrix(10.9091,0,0,-10.9091,88.13997,93.802)"/>
 <use data-text=")" xlink:href="#font_2_2" transform="matrix(10.9091,0,0,-10.9091,93.364978,93.802)"/>
-<path transform="matrix(1,0,0,-1,69.923999,98.45502)" stroke-width=".436" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H27.867"/>
+<path transform="matrix(1,0,0,-1,69.923999,98.45502)" stroke-width=".436" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#34343c" d="M0 0H27.867"/>
 <use data-text="L" xlink:href="#font_2_7" transform="matrix(10.9091,0,0,-10.9091,69.923999,108.66504)"/>
 <use data-text="T" xlink:href="#font_2_10" transform="matrix(10.9091,0,0,-10.9091,75.83673,108.66504)"/>
 <use data-text="(" xlink:href="#font_2_1" transform="matrix(10.9091,0,0,-10.9091,83.713108,108.66504)"/>
@@ -205,7 +210,7 @@
 <use data-text="(" xlink:href="#font_2_1" transform="matrix(10.9091,0,0,-10.9091,83.8251,120.571048)"/>
 <use data-text="r" xlink:href="#font_3_5" transform="matrix(10.9091,0,0,-10.9091,88.067,120.571048)"/>
 <use data-text=")" xlink:href="#font_2_2" transform="matrix(10.9091,0,0,-10.9091,93.291,120.571048)"/>
-<path transform="matrix(1,0,0,-1,69.851,125.224)" stroke-width=".436" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H27.867"/>
+<path transform="matrix(1,0,0,-1,69.851,125.224)" stroke-width=".436" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#34343c" d="M0 0H27.867"/>
 <use data-text="L" xlink:href="#font_2_7" transform="matrix(10.9091,0,0,-10.9091,69.851,135.43402)"/>
 <use data-text="T" xlink:href="#font_2_10" transform="matrix(10.9091,0,0,-10.9091,75.76373,135.43402)"/>
 <use data-text="(" xlink:href="#font_2_1" transform="matrix(10.9091,0,0,-10.9091,83.64011,135.43402)"/>
@@ -229,6 +234,6 @@
 <use data-text="q" xlink:href="#font_3_4" transform="matrix(10.9091,0,0,-10.9091,50.077,160.28205)"/>
 <use data-text="," xlink:href="#font_3_1" transform="matrix(10.9091,0,0,-10.9091,55.335187,160.28205)"/>
 <use data-text="r" xlink:href="#font_3_5" transform="matrix(10.9091,0,0,-10.9091,60.18974,160.28205)"/>
-<path transform="matrix(1,0,0,-1,.6310005,164.59503)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H476.221"/>
+<path transform="matrix(1,0,0,-1,.6310005,164.59503)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#34343c" d="M0 0H476.221"/>
 </g>
 </svg>
