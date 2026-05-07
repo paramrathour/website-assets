@@ -1,0 +1,23 @@
+	<svg viewBox="0 0 1218 660"  width="1218" height="660" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+<path d="M40.0,164.6 C95.0,164.6 95.0,60.0 150.0,60.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="86.1" y="112.2" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">0</text>
+<path d="M40.0,164.6 C93.0,164.6 93.0,269.2 146.0,269.2" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="84.1" y="226.0" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">1</text>
+<path d="M164.0,269.2 C216.0,269.2 216.0,168.0 268.0,168.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="207.1" y="218.6" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">0</text>
+<path d="M164.0,269.2 C214.0,269.2 214.0,370.5 264.0,370.5" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="205.0" y="328.8" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">1</text>
+<path d="M282.0,370.5 C334.0,370.5 334.0,276.0 386.0,276.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="325.2" y="322.9" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">0</text>
+<path d="M282.0,370.5 C332.0,370.5 332.0,465.0 382.0,465.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="323.2" y="426.9" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">1</text>
+<path d="M400.0,465.0 C452.0,465.0 452.0,384.0 504.0,384.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="443.6" y="423.6" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">0</text>
+<path d="M400.0,465.0 C450.0,465.0 450.0,546.0 500.0,546.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="441.5" y="515.3" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">1</text>
+<path d="M518.0,546.0 C570.0,546.0 570.0,492.0 622.0,492.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="562.8" y="516.6" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">0</text>
+<path d="M518.0,546.0 C570.0,546.0 570.0,600.0 622.0,600.0" stroke="#8a8a8a" stroke-width="1.8" fill="none"/>
+<text x="562.8" y="584.4" font-size="14" fill="#1a1a1a" text-anchor="middle" font-family="Georgia, serif">1</text>
+<g><text x="168.0" y="50.0" font-size="16" font-weight="bold" fill="#1a1a1a">1-byte codeword</text><text x="168.0" y="71.0" font-size="14" fill="#b03a2e" font-family='Consolas,Menlo,monospace'>0xxxxxxx</text><text x="168.0" y="90.0" font-size="12.5" fill="#2a6f97" font-style="italic">Encodes U+0000 to U+007F using 1 byte (ASCII)</text><text x="286.0" y="158.0" font-size="16" font-weight="bold" fill="#1a1a1a">Continuation byte (non-lead)</text><text x="286.0" y="179.0" font-size="14" fill="#b03a2e" font-family='Consolas,Menlo,monospace'>10xxxxxx</text><text x="286.0" y="198.0" font-size="12.5" fill="#2a6f97" font-style="italic">Every byte after the lead byte for the 2/3/4-byte character rows below has this form</text><text x="404.0" y="266.0" font-size="16" font-weight="bold" fill="#1a1a1a">First byte of a 2-byte character</text><text x="404.0" y="287.0" font-size="14" fill="#b03a2e" font-family='Consolas,Menlo,monospace'>110xxxyy 10yyzzzz</text><text x="404.0" y="306.0" font-size="12.5" fill="#2a6f97" font-style="italic">Encodes U+0080 to U+07FF using 2 bytes</text><text x="522.0" y="374.0" font-size="16" font-weight="bold" fill="#1a1a1a">First byte of a 3-byte character</text><text x="522.0" y="395.0" font-size="14" fill="#b03a2e" font-family='Consolas,Menlo,monospace'>1110wwww 10xxxxyy 10yyzzzz</text><text x="522.0" y="414.0" font-size="12.5" fill="#2a6f97" font-style="italic">Encodes U+0800 to U+FFFF using 3 bytes</text><text x="640.0" y="482.0" font-size="16" font-weight="bold" fill="#1a1a1a">First byte of a 4-byte character</text><text x="640.0" y="503.0" font-size="14" fill="#b03a2e" font-family='Consolas,Menlo,monospace'>11110uvv 10vvwwww 10xxxxyy 10yyzzzz</text><text x="640.0" y="522.0" font-size="12.5" fill="#2a6f97" font-style="italic">Encodes U+010000 to U+10FFFF using 4 bytes</text><text x="640.0" y="590.0" font-size="16" font-weight="bold" fill="#1a1a1a">Unused</text><text x="640.0" y="611.0" font-size="14" fill="#b03a2e" font-family='Consolas,Menlo,monospace'>11111xxx</text><text x="640.0" y="630.0" font-size="12.5" fill="#2a6f97" font-style="italic">Not a valid UTF-8 lead byte</text></g>
+</svg>
